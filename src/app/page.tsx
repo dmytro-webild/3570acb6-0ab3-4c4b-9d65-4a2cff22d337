@@ -76,17 +76,17 @@ export default function LandingPage() {
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-female-boxers-boxing-gym-two-serious-girls-sportswear-gloves-standing-ring-training-punches-helping-each-other-prepare-match-healthy-lifestyle-hobby-sport-concept_74855-23699.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-female-boxers-boxing-gym-two-serious-girls-sportswear-gloves-standing-ring-training-punches-helping-each-other-prepare-match-healthy-lifestyle-hobby-sport-concept_74855-23699.jpg?_wi=1",
           imageAlt: "MMA Ring",
         },
         {
           id: "4",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-skinny-girl-white-shirt-gray-leggings-engaged-sports-gym_1157-13591.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-skinny-girl-white-shirt-gray-leggings-engaged-sports-gym_1157-13591.jpg?_wi=1",
           imageAlt: "Speed Bag Training",
         },
         {
           id: "5",
-          imageSrc: "http://img.b2bpic.net/free-photo/african-sporty-man-boxing-mixed-people-training_1157-46278.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/african-sporty-man-boxing-mixed-people-training_1157-46278.jpg?_wi=1",
           imageAlt: "Muay Thai Clinch",
         },
         {
@@ -150,19 +150,19 @@ export default function LandingPage() {
         {
           title: "Muay Thai",
           description: "Explosive striking using 8 points of contact for ultimate conditioning.",
-          imageSrc: "http://img.b2bpic.net/free-photo/african-sporty-man-boxing-mixed-people-training_1157-46278.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/african-sporty-man-boxing-mixed-people-training_1157-46278.jpg?_wi=2",
           imageAlt: "Muay Thai training",
         },
         {
           title: "Strength & Conditioning",
           description: "High-intensity athletic training to boost power and endurance.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-skinny-girl-white-shirt-gray-leggings-engaged-sports-gym_1157-13591.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-skinny-girl-white-shirt-gray-leggings-engaged-sports-gym_1157-13591.jpg?_wi=2",
           imageAlt: "Strength training",
         },
         {
           title: "Competition Prep",
           description: "Focused camps for amateur and professional fighters.",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-female-boxers-boxing-gym-two-serious-girls-sportswear-gloves-standing-ring-training-punches-helping-each-other-prepare-match-healthy-lifestyle-hobby-sport-concept_74855-23699.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-female-boxers-boxing-gym-two-serious-girls-sportswear-gloves-standing-ring-training-punches-helping-each-other-prepare-match-healthy-lifestyle-hobby-sport-concept_74855-23699.jpg?_wi=2",
           imageAlt: "Cage training",
         },
       ]}
